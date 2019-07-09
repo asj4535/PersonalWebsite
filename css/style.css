@@ -1,0 +1,13 @@
+.skills {
+	/*background-color: black;*/
+}
+
+.tablecol:nth-child(odd) {
+	background-color: red;
+	border: solid black 1px;
+	border-left: solid black 1px;
+}
+
+.rating {
+	color: yellow;
+}
