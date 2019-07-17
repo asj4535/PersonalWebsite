@@ -5,11 +5,11 @@
 }
 
 .tablecol:nth-child(odd) {
-	/* background-color: blue; */
+	background-color: blue;
 	/* border: solid black 1px; */
 	/* border-left: solid black 1px; */
 
-	background-color: white;
+	/* background-color: white; */
 }
 
 .rating {
