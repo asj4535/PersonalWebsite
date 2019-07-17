@@ -5,7 +5,7 @@
 }
 
 .tablecol:nth-child(odd) {
-	background-color: green;
+	background-color: red;
 	/* border: solid black 1px; */
 	/* border-left: solid black 1px; */
 
