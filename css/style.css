@@ -1,11 +1,15 @@
 .skills {
-	/*background-color: black;*/
+	/* background-color: green; */
+	border: solid black 1px;
+	border-radius: 10px;
 }
 
 .tablecol:nth-child(odd) {
-	background-color: red;
-	border: solid black 1px;
-	border-left: solid black 1px;
+	/* background-color: blue; */
+	/* border: solid black 1px; */
+	/* border-left: solid black 1px; */
+
+	background-color: white;
 }
 
 .rating {
